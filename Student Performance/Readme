@@ -1,0 +1,11 @@
+I got the idea and directions for this project from Youtube(Tech with Tim).
+Video URL:
+Part 1: https://www.youtube.com/watch?v=45ryDIPHdGg
+Part 2: https://www.youtube.com/watch?v=1BYu65vLKdA
+
+In this project, I got opensource student dataset from internet, created a linear regression model with best possible accuracy from 30 iterations. 
+Stored the model using pickle, loaded it back to program to predict on x_test data.
+Additionaly, user can input known values(grade 1, grade 2, study time, failures and absences) for the model to predict the target value i.e G3, the final exam score. 
+
+PS: This was my first proper ML program in which I knew what I was doing with the data and the model the whole time. 
+    So, I did the "get user input and predict" part myself :)
